@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /
+
+Disallow: /posts/my-first-post/
+
+Disallow: /posts/
+
+Disallow: /categories/
+
+Disallow: /categories/css/
+
+Disallow: /categories/javascript/
+
+Disallow: /about/
+
+Disallow: /tags/
+
+Disallow: /categories/uncategories/

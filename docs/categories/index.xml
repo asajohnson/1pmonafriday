@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ashley</title>
-    <link>https://1pmonafriday.com/categories/</link>
-    <description>Recent content in Categories on Ashley</description>
+    <title>Categories on 1PM on a Friday</title>
+    <link>http://1pmonfriday.com/categories/</link>
+    <description>Recent content in Categories on 1PM on a Friday</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://1pmonafriday.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>2024</copyright>
+    <atom:link href="http://1pmonfriday.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS</title>
+      <link>http://1pmonfriday.com/categories/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://1pmonfriday.com/categories/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://1pmonfriday.com/categories/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://1pmonfriday.com/categories/javascript/</guid>
+      <description>Description</description>
+    </item>
+    <item>
+      <title>Uncategories</title>
+      <link>http://1pmonfriday.com/categories/uncategories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://1pmonfriday.com/categories/uncategories/</guid>
+      <description>Description</description>
+    </item>
   </channel>
 </rss>
