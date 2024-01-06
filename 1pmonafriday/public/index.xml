@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley</title>
+    <link>https://1pmonafriday.com/</link>
+    <description>Recent content on Ashley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jan 2024 19:54:15 -0800</lastBuildDate>
+    <atom:link href="https://1pmonafriday.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://1pmonafriday.com/posts/my-first-post/</link>
+      <pubDate>Fri, 05 Jan 2024 19:54:15 -0800</pubDate>
+      <guid>https://1pmonafriday.com/posts/my-first-post/</guid>
+      <description>It’s 1pm on a Friday and this Product Manager has decided to finally tackle that side project that had been rattling around in her head for awhile. My goal for this site is to capture my own thoughts, advice, stories, and drawings about working in tech and education as a personal scrapbook; and also hopefully so that others may find some gemstones (or at least laughs) from my experiences.</description>
+    </item>
+  </channel>
+</rss>
