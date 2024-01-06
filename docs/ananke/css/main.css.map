@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Development/1pmonafriday/1pmonafriday",
+	"sourceRoot": "C:/Development/1pmonafriday",
 	"sources": [
 		"ananke/css/main.css"
 	],
