@@ -1,4 +1,4 @@
-baseURL = 'http://1pmonfriday.com/'
+baseURL = 'https://1pmonfriday.com/'
 copyright = "2024" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
 languageCode = 'en-US'
 defaultContentLanguage = 'en'
@@ -7,6 +7,8 @@ title = '1PM on a Friday'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
+uglyURLs = true
+relativeURLs = true
 
 
 [markup]
