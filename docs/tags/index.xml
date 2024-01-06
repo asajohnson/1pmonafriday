@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 1PM on a Friday</title>
-    <link>http://1pmonfriday.com/tags/</link>
+    <link>https://1pmonfriday.com/tags.html</link>
     <description>Recent content in Tags on 1PM on a Friday</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>2024</copyright>
-    <atom:link href="http://1pmonfriday.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://1pmonfriday.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

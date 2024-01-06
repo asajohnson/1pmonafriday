@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 1PM on a Friday</title>
-    <link>http://1pmonfriday.com/categories/</link>
+    <link>https://1pmonfriday.com/categories.html</link>
     <description>Recent content in Categories on 1PM on a Friday</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>2024</copyright>
-    <atom:link href="http://1pmonfriday.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://1pmonfriday.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
-      <link>http://1pmonfriday.com/categories/css/</link>
+      <link>https://1pmonfriday.com/categories/css.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://1pmonfriday.com/categories/css/</guid>
+      <guid>https://1pmonfriday.com/categories/css.html</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>http://1pmonfriday.com/categories/javascript/</link>
+      <link>https://1pmonfriday.com/categories/javascript.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://1pmonfriday.com/categories/javascript/</guid>
+      <guid>https://1pmonfriday.com/categories/javascript.html</guid>
       <description>Description</description>
     </item>
     <item>
       <title>Uncategories</title>
-      <link>http://1pmonfriday.com/categories/uncategories/</link>
+      <link>https://1pmonfriday.com/categories/uncategories.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://1pmonfriday.com/categories/uncategories/</guid>
+      <guid>https://1pmonfriday.com/categories/uncategories.html</guid>
       <description>Description</description>
     </item>
   </channel>

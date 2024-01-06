@@ -2,18 +2,18 @@ User-agent: *
 
 Disallow: /
 
-Disallow: /posts/my-first-post/
+Disallow: /posts/my-first-post.html
 
-Disallow: /posts/
+Disallow: /posts.html
 
-Disallow: /categories/
+Disallow: /categories.html
 
-Disallow: /categories/css/
+Disallow: /categories/css.html
 
-Disallow: /categories/javascript/
+Disallow: /categories/javascript.html
 
-Disallow: /about/
+Disallow: /about.html
 
-Disallow: /tags/
+Disallow: /tags.html
 
-Disallow: /categories/uncategories/
+Disallow: /categories/uncategories.html

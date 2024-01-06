@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://1pmonfriday.com/</loc>
+    <loc>https://1pmonfriday.com/</loc>
     <lastmod>2024-01-05T19:54:15-08:00</lastmod>
   </url><url>
-    <loc>http://1pmonfriday.com/posts/my-first-post/</loc>
+    <loc>https://1pmonfriday.com/posts/my-first-post.html</loc>
     <lastmod>2024-01-05T19:54:15-08:00</lastmod>
   </url><url>
-    <loc>http://1pmonfriday.com/posts/</loc>
+    <loc>https://1pmonfriday.com/posts.html</loc>
     <lastmod>2024-01-05T19:54:15-08:00</lastmod>
   </url><url>
-    <loc>http://1pmonfriday.com/categories/</loc>
+    <loc>https://1pmonfriday.com/categories.html</loc>
   </url><url>
-    <loc>http://1pmonfriday.com/categories/css/</loc>
+    <loc>https://1pmonfriday.com/categories/css.html</loc>
   </url><url>
-    <loc>http://1pmonfriday.com/categories/javascript/</loc>
+    <loc>https://1pmonfriday.com/categories/javascript.html</loc>
   </url><url>
-    <loc>http://1pmonfriday.com/about/</loc>
+    <loc>https://1pmonfriday.com/about.html</loc>
   </url><url>
-    <loc>http://1pmonfriday.com/tags/</loc>
+    <loc>https://1pmonfriday.com/tags.html</loc>
   </url><url>
-    <loc>http://1pmonfriday.com/categories/uncategories/</loc>
+    <loc>https://1pmonfriday.com/categories/uncategories.html</loc>
   </url>
 </urlset>
